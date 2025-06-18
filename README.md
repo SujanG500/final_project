@@ -20,8 +20,13 @@ This project uses deep learning to estimate **nutritional values of food items f
 ```bash
 git clone https://github.com/your-username/food-nutrition-estimator.git
 cd food-nutrition-estimato
-### 1. Clone the repository
-python -m venv venv
-source venv/bin/activate  # For Windows: venv\Scripts\activate
-pip install -r requirements.tx
-streamlit run app.py
+### 1. Clone the repository bash
+
+
+---
+
+
+
+
+### 2. Install dependencies
+
